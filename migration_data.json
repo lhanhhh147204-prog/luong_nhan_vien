@@ -1,0 +1,132 @@
+{
+  "employees": {
+    "Lê Duy Phú": {
+      "job": "Giám đốc"
+    },
+    "Lê Hoàng Anh": {
+      "job": "NV Thu mua"
+    },
+    "Tống Đắc Sơn": {
+      "job": "Chỉ Huy CT"
+    },
+    "Lê Văn Độ": {
+      "job": "Thợ Nhôm Kính"
+    },
+    "Lò Văn Tiên": {
+      "job": "Thợ Nhôm Kính"
+    },
+    "Hồ Văn Phải": {
+      "job": "Thợ Nhôm Kính"
+    },
+    "Võ Thanh Hưng": {
+      "job": "Thợ Nhôm Kính"
+    },
+    "Người lập biểu": {
+      "job": ""
+    },
+    "(Ký, họ tên)": {
+      "job": ""
+    },
+    "Nguyễn Thanh Hoan": {
+      "job": ""
+    },
+    "Nguyễn Văn Quyền": {
+      "job": "Thợ Nhôm Kính-QS"
+    },
+    "Nguyễn Thị Kim Trí": {
+      "job": "Kế Toán"
+    },
+    "Lê Trọng Đức": {
+      "job": "Thợ Nhôm Kính"
+    },
+    "Nguyễn Văn Chiến": {
+      "job": "Thợ Nhôm Kính"
+    },
+    "Lê Văn Khê": {
+      "job": "Thợ Nhôm Kính"
+    }
+  },
+  "data": {
+    "T1": {
+      "Lê Duy Phú": 20000000,
+      "Lê Hoàng Anh": 15000000,
+      "Tống Đắc Sơn": 20354750,
+      "Lê Văn Độ": 21000000,
+      "Lò Văn Tiên": 27000000,
+      "Hồ Văn Phải": 26111111,
+      "Võ Thanh Hưng": 21000000,
+      "Người lập biểu": 0,
+      "(Ký, họ tên)": 0,
+      "Nguyễn Thanh Hoan": 0
+    },
+    "T2": {
+      "Lê Duy Phú": 49000000,
+      "Lê Hoàng Anh": 34000000,
+      "Tống Đắc Sơn": 36500000,
+      "Nguyễn Văn Quyền": 62941539,
+      "Lê Văn Độ": 0,
+      "Nguyễn Thanh Hoan": 0,
+      "Lò Văn Tiên": 0,
+      "Người lập biểu": 0,
+      "(Ký, họ tên)": 0
+    },
+    "T3": {
+      "Lê Duy Phú": 19000000,
+      "Lê Hoàng Anh": 14000000,
+      "Tống Đắc Sơn": 17500000,
+      "Người lập biểu": 0,
+      "(Ký, họ tên)": 0
+    },
+    "T4": {
+      "Lê Duy Phú": 21000000,
+      "Lê Hoàng Anh": 14000000,
+      "Nguyễn Văn Quyền": 22000000,
+      "Người lập biểu": 0,
+      "(Ký, họ tên)": 0
+    },
+    "T5": {
+      "Lê Duy Phú": 19000000,
+      "Lê Hoàng Anh": 14000000,
+      "Nguyễn Văn Quyền": 22000000,
+      "Nguyễn Thị Kim Trí": 10000000,
+      "Hồ Văn Phải": 48888888.8884,
+      "Người lập biểu": 0,
+      "(Ký, họ tên)": 0
+    },
+    "T6": {
+      "Lê Duy Phú": 19000000,
+      "Lê Hoàng Anh": 14000000,
+      "Nguyễn Văn Quyền": 22000000,
+      "Nguyễn Thị Kim Trí": 10000000,
+      "Lê Trọng Đức": 15750000,
+      "Nguyễn Văn Chiến": 13500000,
+      "Lê Văn Khê": 23500000,
+      "Người lập biểu": 0,
+      "(Ký, họ tên)": 0
+    },
+    "T7": {
+      "Lê Duy Phú": 22000000,
+      "Lê Hoàng Anh": 15000000,
+      "Nguyễn Văn Quyền": 23000000,
+      "Nguyễn Thị Kim Trí": 18000000,
+      "Hồ Văn Phải": 40000000,
+      "Lê Trọng Đức": 14560000,
+      "Nguyễn Văn Chiến": 21000000,
+      "Lê Văn Khê": 24550000,
+      "Người lập biểu": 0,
+      "(Ký, họ tên)": 0
+    },
+    "T8": {
+      "Lê Duy Phú": 21000000,
+      "Lê Hoàng Anh": 14000000,
+      "Nguyễn Văn Quyền": 22000000,
+      "Nguyễn Thị Kim Trí": 18000000,
+      "Hồ Văn Phải": 2270000,
+      "Lê Văn Khê": 0,
+      "Nguyễn Văn Chiến": 0,
+      "Lê Trọng Đức": 28000000,
+      "Người lập biểu": 0,
+      "(Ký, họ tên)": 0
+    }
+  }
+}
