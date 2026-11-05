@@ -15,12 +15,13 @@
 - **Đóng gói dự án & Git:** Khởi tạo local Git repository cho thư mục `chien_than_AI`, bổ sung `.gitignore` (loại bỏ `__pycache__`, `.env`), và push toàn bộ mã nguồn lên GitHub.
 - **Thiết lập Vercel:** Hướng dẫn kết nối thành công kho GitHub mới với Vercel project để triển khai dự án hoàn toàn tự động.
 
-## 3. Công Việc Cho Phiên Tiếp Theo (Next Steps)
-*(Nếu có)*
-1. **Theo dõi Deployment:** Xác nhận Vercel đã build xong bản cập nhật mới nhất và trình duyệt không bị cache (dùng Ctrl + F5).
-2. **Bổ sung tính năng Security:** Thêm Auth/Login đơn giản nếu cần bảo vệ URL khỏi người ngoài.
-3. **Phát triển giao diện Di động (Mobile-friendly):** Tinh chỉnh CSS để giao diện dễ dùng hơn trên màn hình điện thoại của giám đốc hoặc nhân viên kế toán.
-4. **Domain Custom:** Liên kết tên miền riêng (VD: `ketoan.nhomkinh.com`).
+## 3. Công Việc Cho Phiên Tiếp Theo (Next Steps / Backlog)
+1. **[ƯU TIÊN GIAO DIỆN] Tái thiết kế UI/UX theo phong cách Ardena (Fintech Dark Glassmorphism):**
+   - Đã lưu chi tiết kế hoạch tại `docs/ROADMAP_UI_UX_ARDENA.md`.
+   - Các hạng mục: Sidebar thu gọn mượt mà, Biểu đồ sóng dòng tiền & quỹ lương, Panel "Needs you today" (cảnh báo rủi ro thuế & công nợ quá hạn), Slide-over Drawer xem chi tiết hồ sơ lương 7 bậc, Toast thông báo có nút Undo.
+2. **Theo dõi Deployment:** Xác nhận Vercel đã build xong bản cập nhật mới nhất và trình duyệt không bị cache (dùng Ctrl + F5).
+3. **Bổ sung tính năng Security:** Thêm Auth/Login hoặc API Key để bảo vệ dữ liệu nội bộ.
+4. **Phát triển giao diện Di động (Mobile-friendly):** Tinh chỉnh CSS để giao diện dễ dùng hơn trên màn hình điện thoại của giám đốc hoặc kế toán.
 
 ## 4. Ghi Chú Đặc Biệt (Notes)
 - Mọi chỉnh sửa API sau này bắt buộc phải dùng `psycopg2` theo chuẩn PostgreSQL (không được dùng `pyodbc`).
