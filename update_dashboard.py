@@ -3,8 +3,8 @@ import json
 import os
 from tax_engine import run_anomaly_detection
 
-DB_NAME = "QL_LUONG"
-CONN_STR = f'DRIVER={{ODBC Driver 17 for SQL Server}};SERVER=localhost;DATABASE={DB_NAME};Trusted_Connection=yes;'
+# Supabase PostgreSQL Configuration
+# (Connection managed by db_config)
 HTML_PATH = r"c:\Users\lehoa\OneDrive\Documents\BANG_LUONG'\chien_than_AI\webapp\index.html"
 
 def fmt_vnd(n):
@@ -19,7 +19,7 @@ def get_month_num(m_str):
         return 99
 
 def generate_html():
-    print("Connecting to SQL Server for Dashboard...")
+    print("Connecting to Supabase PostgreSQL for Dashboard...")
     conn = db_config.get_db_connection()
     cursor = conn.cursor()
 
@@ -853,7 +853,7 @@ async function loadNhanVien() {{
 }}
 
 function fmtVND(n) {{
-  return Math.round(n).toLocaleString('de-DE').replace(/\./g, '.') + ' đ';
+  return Math.round(n).toLocaleString('de-DE').replace(/\\./g, '.') + ' đ';
 }}
 
 function calcNet() {{

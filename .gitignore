@@ -1,5 +1,7 @@
 __pycache__/
 *.pyc
 .env
+scratch/
 archive/scratch/
+memory/
 *.xlsx
