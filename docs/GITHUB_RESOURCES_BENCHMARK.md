@@ -38,3 +38,4 @@ Tài liệu này tổng hợp các kho lưu trữ mã nguồn mở (GitHub Repos
 ### 4. Cách Tận Dụng Các Tài Nguyên Này Cho Các Bước Tiếp Theo
 1. **Tham chiếu logic quy đổi Gross ⇄ Net:** Áp dụng thuật toán binary search của `googlesky/thue-2026` vào hàm chuyển đổi lương 2 chiều trên `api_server.py`.
 2. **Hiện thực hóa UI Ardena:** Sử dụng các thành phần CSS/Tailwind của `shadcn-fintech` để xây dựng lại giao diện Dashboard kính mờ tối màu theo đúng lộ trình `docs/ROADMAP_UI_UX_ARDENA.md`.
+
