@@ -37,6 +37,8 @@ BANG_LUONG/
     ├── 📂 docs/                             # Báo cáo, Tài liệu kỹ thuật & Quy tắc
     │   ├── BAO_CAO_PHAN_TICH_2026.md        # Báo cáo phân tích chuyên sâu lương 2026
     │   ├── WORKFLOW.md                      # Quy trình vận hành & nghiệp vụ kế toán
+    │   ├── ROADMAP_UI_UX_ARDENA.md          # Lộ trình thiết kế UI/UX Fintech Dark Glassmorphism
+    │   ├── GITHUB_RESOURCES_BENCHMARK.md    # Tuyển tập GitHub Repos tiêu chuẩn cho dự án
     │   └── memory/                          # Bộ nhớ quy tắc công ty & nhật ký lỗi
     │       ├── cong_ty_rules.md             # Quy tắc nghiệp vụ đặc thù công ty
     │       ├── error_log.md                 # Nhật ký lỗi & cách khắc phục

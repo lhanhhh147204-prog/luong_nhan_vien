@@ -56,3 +56,4 @@
 
 ### 4. Trạng Thái Hiện Tại
 - **Trạng thái:** `PENDING / BACKLOG` (Đã lưu ý tưởng và kế hoạch chi tiết, sẵn sàng thực thi khi người dùng yêu cầu).
+
